@@ -32,3 +32,8 @@ academia: true
 - [机器学习系统：设计和实现](https://openmlsys.github.io/index.html)
 - [Machine learning Compilation](https://mlc.ai/summer22/schedule)
 - [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/#)
+
+### <font color=CornflowerBlue>SOTA ML Models</font>
+
+- [Big Model Trend](https://openbmb.github.io/BMList/)
+- [机器之心 SOTA Model](https://sota.jiqizhixin.com/)
