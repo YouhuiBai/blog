@@ -16,6 +16,8 @@ academia: true
 - [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Advice on research and writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
 - [Tips about writing systems papers](http://linzhong.org/opinions/writing.html)
+- [Writing a good paper](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html)
+- [Useful phrases and sentences for paper writing](https://www.ref-n-write.com/blog/how-to-write-a-research-paper-academic-phrasebank-vocabulary/)
 - [Giving an academic talk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
 - [Oral presentation advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)
 - [Creating an effective poster](https://docs.google.com/document/d/1gkUWgYMQ37kJ-Bu4wmcEi7x30ZEnmRw99ZMSUhZcQtI/edit#)
