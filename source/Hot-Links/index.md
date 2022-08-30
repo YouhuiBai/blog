@@ -22,8 +22,9 @@ academia: true
 - [Oral presentation advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)
 - [Creating an effective poster](https://docs.google.com/document/d/1gkUWgYMQ37kJ-Bu4wmcEi7x30ZEnmRw99ZMSUhZcQtI/edit#)
 
-### <font color=CornflowerBlue>Paper Reading Tools</font>
+### <font color=CornflowerBlue>Paper Reading Tools and Links</font>
 
+- [Papers for mlsys](https://jeongseob.github.io/readings_mlsys.html)
 - [Read paper online](https://readpaper.com/)
 - [The dblp datasets](https://dblp.dagstuhl.de/)
 - [arXiv Daily](http://www.arxivdaily.com/)
