@@ -5,6 +5,8 @@ academia: true
 ---
 
 
+- Outstanding Doctoral Dissertation Award (ACM SIGCSE China, 2022)
+- President's Commendation Order (HUAWEI, 2022)
 - Outstanding Graduate of Anhui Province (USTC, 2021)
 - USTC global Digital Scholarship (USTC, 2017)
 - First prize of postgraduate Academic Scholarship (USTC, 2017)

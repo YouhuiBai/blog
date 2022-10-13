@@ -14,6 +14,7 @@ My research interests lie in various topics related to computer systems such as 
 
 ## News
 
+- Sep 24, 2022: Outstanding Doctoral Dissertation Award of ACM SIGCSE China.
 - Oct 26, 2021: HiPress appears at [SOSP 2021](https://sosp2021.mpi-sws.org/program.html).
 - Jul 25, 2021: Join the HUAWEI, at Hangzhou China.
 - Jun 26, 2021: I received my PhD degree from USTC [ADSL](http://adsl.ustc.edu.cn/).
