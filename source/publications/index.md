@@ -7,9 +7,9 @@ academia: true
 1. [<u><font color=Blue>**A Generic, High-Performance, Compression-Aware Framework for Data Parallel DNN Training**</font></u>](https://youhuibai.github.io/publications)  
     Hao Wu, Shiyi Wang, **Youhui Bai (corresponding author)**, Cheng Li, Quan Zhou, Jun Yi, Feng Yan, Ruichuan Chen, Yinlong Xu  
     In ***TPDS***, 2022 Under Review.
-2. [<u><font color=Blue>**MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism**</font></u>](https://youhuibai.github.io/publications)  
+2. [<u><font color=Blue>**MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism**</font></u>](https://hpca-conf.org/2023/)  
     Quan Zhou, Haiquan Wang, Xiaoyan Yu, Cheng Li, **Youhui Bai**, Feng Yan, Yinlong Xu  
-    In ***HPCA***, 2022 Under Review.
+    In ***HPCA***, Montreal, QC, Canada, February 2023.
 3. [<u><font color=Blue>**A Survey on Auto-Parallelism of Neural Networks Training**</font></u>](https://www.techrxiv.org/articles/preprint/A_Survey_on_Auto-Parallelism_of_Neural_Networks_Training/19522414)  
     Peng Liang, Yu Tang, Xiaoda Zhang, **Youhui Bai**, Teng Su, linbo qiao, Zhiquan Lai, Dongsheng Li  
     In ***TechRxiv***, August 2022.

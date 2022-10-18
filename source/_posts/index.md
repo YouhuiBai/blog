@@ -14,6 +14,7 @@ My research interests lie in various topics related to computer systems such as 
 
 ## News
 
+- Oct 18, 2022: MPress is accepted by [HPCA 2023](https://hpca-conf.org/2023/)
 - Sep 24, 2022: Outstanding Doctoral Dissertation Award of ACM SIGCSE China.
 - Oct 26, 2021: HiPress appears at [SOSP 2021](https://sosp2021.mpi-sws.org/program.html).
 - Jul 25, 2021: Join the HUAWEI, at Hangzhou China.
