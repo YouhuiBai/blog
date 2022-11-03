@@ -6,7 +6,7 @@ academia: true
 ---
 
 ## About Me
-I am a senior engineer of [HUAWEI company](https://www.huawei.com/) at 2012 Laboratories-Central Software Institute-Distributed and Parallel Software Laboratory-Parallel Distributed Computing Laboratory, and working on [MindSpore](https://gitee.com/mindspore/mindspore) project to make the distributed training strategies more advanced.
+I am a senior engineer of [HUAWEI company](https://www.huawei.com/) at Theory Lab of 2012 Labs, and working on the research of large scale DNN training systems.
 
 Before joining the HUAWEI, I received my PhD degree in computer science from [Advanced Data Systems Lab (ADSL)](http://adsl.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) under the supervision of [Yinlong Xu](http://cs.ustc.edu.cn/2020/0828/c23235a460084/page.htm) and [Cheng Li](http://staff.ustc.edu.cn/~chengli7/index.html). During my PhD study, I work closely with [Cheng Li](http://staff.ustc.edu.cn/~chengli7/index.html), [Feng Yan](https://www.cse.unr.edu/~fyan/index.html) and [Ruichuan Chen](https://www.ruichuan.org/). I obtained my B.S degree at USTC too.
 
