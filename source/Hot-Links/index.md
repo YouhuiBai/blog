@@ -8,6 +8,7 @@ academia: true
 ### <font color=CornflowerBlue>Conferences and Journals by Deadline</font>
 
 - [Conference partner](https://www.myhuiban.com/home)
+- [CCF conferences by deadlines](https://ccfddl.github.io/)
 - [System conferences by deadline](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 - [Important dates of selected conferences in computer architecture & system fields](https://cfp.atom.im/)
 
