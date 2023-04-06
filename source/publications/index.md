@@ -6,7 +6,7 @@ academia: true
 
 1. [<u><font color=Blue>**A Generic, High-Performance, Compression-Aware Framework for Data Parallel DNN Training**</font></u>](https://youhuibai.github.io/publications)  
     Hao Wu, Shiyi Wang, **Youhui Bai (corresponding author)**, Cheng Li, Quan Zhou, Jun Yi, Feng Yan, Ruichuan Chen, Yinlong Xu  
-    In ***TPDS***, 2022 Under Review.
+    In ***TPDS***, Virtual, April 2023.
 2. [<u><font color=Blue>**MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism**</font></u>](https://hpca-conf.org/2023/)  
     Quan Zhou, Haiquan Wang, Xiaoyan Yu, Cheng Li, **Youhui Bai**, Feng Yan, Yinlong Xu  
     In ***HPCA***, Montreal, QC, Canada, February 2023.
