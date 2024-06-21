@@ -5,6 +5,7 @@ academia: true
 ---
 
 
+- World Artificial Intelligence Conference Youth Outstanding Paper Award (WAIC, 2024)
 - Outstanding Doctoral Dissertation Award (ACM SIGCSE China, 2022)
 - President's Commendation Order (HUAWEI, 2022)
 - Outstanding Graduate of Anhui Province (USTC, 2021)
