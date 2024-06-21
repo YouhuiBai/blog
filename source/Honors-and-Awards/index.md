@@ -6,6 +6,11 @@ academia: true
 
 
 - World Artificial Intelligence Conference Youth Outstanding Paper Award (WAIC, 2024)
+- Innovation & Technological Breakthrough Award (HUAWEI 2012Labs, 2023)
+- Team Gold Medal Award (HUAWEI, 2012Labs, 2023)
+- Spark Award Issue 77 Abount LLM Inference (HUAWEI, 2023)
+- Calculate the R&D Mgmt Dept's Timely Incentive Award (HUAWEI, Computing Product Line, 2023)
+- Innovation Pioneer Award, First Prize (HUAWEI, 2012Labs, 2023)
 - Outstanding Doctoral Dissertation Award (ACM SIGCSE China, 2022)
 - President's Commendation Order (HUAWEI, 2022)
 - Outstanding Graduate of Anhui Province (USTC, 2021)
