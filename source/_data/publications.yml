@@ -1,0 +1,400 @@
+author: Youhui Bai
+
+years:
+  - year: 2026
+    papers:
+      - venue: OSDI
+        award: Best Paper
+        title: "Teaching the Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-Training (Operational Systems)"
+        corresponding: true
+        url: https://www.usenix.org/system/files/osdi26-chen-luofan.pdf
+        authors:
+          - Luofan Chen
+          - Chenhan Wang
+          - Weidong Zhang
+          - Jinxin Chi
+          - Hequan Zhang
+          - Zanbo Wang
+          - Chenyuan Wang
+          - Lishu Luo
+          - Sijin Wu
+          - Junqi Hu
+          - Jun Wang
+          - Cheng Chen
+          - Lixin Huang
+          - Liyang Zhao
+          - Yong Tian
+          - Jun Guo
+          - Youhui Bai
+          - Wencong Xiao
+          - Kang Chen
+          - Cheng Li
+        publication: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26), July 2026.
+        links:
+          - label: Paper
+            url: https://www.usenix.org/system/files/osdi26-chen-luofan.pdf
+          - label: USENIX
+            url: https://www.usenix.org/conference/osdi26/presentation/chen-luofan
+
+      - venue: TPDS
+        title: "nScaler-M: Constraint-Guided and Placement-Aware Parallelization Plan Generation for Deep Learning Training"
+        corresponding: true
+        url: https://doi.org/10.1109/TPDS.2026.3691363
+        authors:
+          - Jiaan Zhu
+          - Qinghe Wang
+          - Long Zhao
+          - Chizheng Fang
+          - Zewen Jin
+          - Youhui Bai
+          - Zhiqi Lin
+          - Cheng Li
+        publication: IEEE Transactions on Parallel and Distributed Systems, July 2026.
+        links:
+          - label: Paper
+            url: https://doi.org/10.1109/TPDS.2026.3691363
+
+      - venue: TMLR
+        title: "CentroidKV: Efficient Long-Context LLM Inference via KV Cache Clustering"
+        url: https://openreview.net/forum?id=T3EeupQhGj
+        authors:
+          - Jie Hu
+          - Shengnan Wang
+          - Yutong He
+          - Ping Gong
+          - Jiawei Yi
+          - Juncheng Zhang
+          - Youhui Bai
+          - Renhai Chen
+          - Gong Zhang
+          - Cheng Li
+          - Kun Yuan
+        publication: Transactions on Machine Learning Research, June 2026.
+        links:
+          - label: Paper
+            url: https://openreview.net/forum?id=T3EeupQhGj
+
+      - venue: CVPR
+        title: "AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation"
+        corresponding: true
+        url: https://openaccess.thecvf.com/content/CVPR2026/html/Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper.html
+        authors:
+          - Haoyue Tan
+          - Shengnan Wang
+          - Yulin Qiao
+          - Juncheng Zhang
+          - Youhui Bai
+          - Ping Gong
+          - Zewen Jin
+          - Cheng Li
+        publication: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, June 2026.
+        links:
+          - label: Paper
+            url: https://openaccess.thecvf.com/content/CVPR2026/html/Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper.html
+          - label: arXiv
+            url: https://arxiv.org/abs/2604.18348
+
+      - venue: ICPP
+        title: Accelerating Long-Tail Generation in Synchronous RLHF Training via Adaptive Tensor Parallelism
+        corresponding: true
+        url: https://arxiv.org/abs/2605.23945
+        authors:
+          - Long Zhao
+          - Qinghe Wang
+          - Jiaan Zhu
+          - Youhui Bai
+          - Zewen Jin
+          - Chaoyi Ruan
+          - Shengnan Wang
+          - Cheng Li
+        publication: International Conference on Parallel Processing (ICPP), 2026.
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2605.23945
+
+      - venue: AAAI
+        title: "SMIDT: High-Performance Inference Framework for MoE Models with Dynamic Top-K Routing"
+        corresponding: true
+        url: https://ojs.aaai.org/index.php/AAAI/article/view/39403
+        authors:
+          - Zewen Jin
+          - Shen Fu
+          - Chengjie Tang
+          - Youhui Bai
+          - Shengnan Wang
+          - Jiaan Zhu
+          - Chizheng Fang
+          - Ping Gong
+          - Cheng Li
+        publication: Proceedings of the AAAI Conference on Artificial Intelligence, March 2026.
+        links:
+          - label: Paper
+            url: https://ojs.aaai.org/index.php/AAAI/article/view/39403
+
+      - venue: arXiv
+        title: "Lagom: Unleashing the Power of Communication and Computation Overlapping for Distributed LLM Training"
+        corresponding: true
+        url: https://arxiv.org/abs/2602.20656
+        authors:
+          - Guanbin Xu
+          - ZhenGuo Xu
+          - Yuzhe Li
+          - Youhui Bai
+          - Ping Gong
+          - Chaoyi Ruan
+          - Cheng Li
+        publication: arXiv preprint arXiv:2602.20656, February 2026.
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2602.20656
+
+  - year: 2025
+    papers:
+      - venue: arXiv
+        title: "CLO: Efficient LLM Inference System with CPU-Light KVCache Offloading via Algorithm-System Co-Design"
+        corresponding: true
+        url: https://arxiv.org/abs/2511.14510
+        authors:
+          - Jiawei Yi
+          - Ping Gong
+          - Youhui Bai
+          - Jiaqi Ruan
+          - Shengnan Wang
+          - Pengcheng Wang
+          - Haibo Wang
+          - Weiguang Wang
+          - Xia Zhu
+          - Feng Wu
+          - Cheng Li
+        publication: arXiv preprint arXiv:2511.14510, November 2025.
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2511.14510
+          - label: Code
+            url: https://github.com/CommediaJW/CLO
+
+      - venue: arXiv
+        title: Efficient Long-Context LLM Inference via KV Cache Clustering
+        url: https://arxiv.org/abs/2506.11418
+        authors:
+          - Jie Hu
+          - Shengnan Wang
+          - Yutong He
+          - Ping Gong
+          - Jiawei Yi
+          - Juncheng Zhang
+          - Youhui Bai
+          - Renhai Chen
+          - Gong Zhang
+          - Cheng Li
+          - Kun Yuan
+        publication: arXiv preprint arXiv:2506.11418, June 2025.
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2506.11418
+
+      - venue: ACL
+        title: "HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference"
+        url: https://arxiv.org/abs/2506.02572
+        authors:
+          - Ping Gong
+          - Jiawei Yi
+          - Shengnan Wang
+          - Juncheng Zhang
+          - Zewen Jin
+          - Ouxiang Zhou
+          - Ruibo Liu
+          - Guanbin Xu
+          - Youhui Bai
+          - Bowen Ye
+          - Kun Yuan
+          - Tong Yang
+          - Gong Zhang
+          - Renhai Chen
+          - Feng Wu
+          - Cheng Li
+        publication: Findings of the Association for Computational Linguistics, May 2025.
+        links:
+          - label: Paper
+            url: https://aclanthology.org/2025.findings-acl.1275/
+          - label: arXiv
+            url: https://arxiv.org/abs/2506.02572
+          - label: Code
+            url: https://github.com/gpzlx1/HATA
+
+      - venue: AAAI
+        title: "BigMac: A Communication-Efficient Mixture-of-Experts Model Structure for Fast Training and Inference"
+        url: https://doi.org/10.1609/aaai.v39i17.33945
+        authors:
+          - Zewen Jin
+          - Shengnan Wang
+          - Jiaan Zhu
+          - Hongrui Zhan
+          - Youhui Bai
+          - Lin Zhang
+          - Zhenyu Ming
+          - Cheng Li
+        publication: Proceedings of the AAAI Conference on Artificial Intelligence, March 2025.
+        links:
+          - label: Paper
+            url: https://doi.org/10.1609/aaai.v39i17.33945
+          - label: arXiv
+            url: https://arxiv.org/abs/2502.16927
+
+  - year: 2024
+    papers:
+      - venue: arXiv
+        title: "XL3M: A Training-free Framework for LLM Length Extension Based on Segment-wise Inference"
+        url: https://arxiv.org/abs/2405.17755
+        authors:
+          - Shengnan Wang
+          - Youhui Bai
+          - Lin Zhang
+          - Pingyi Zhou
+          - Shixiong Zhao
+          - Gong Zhang
+          - Sen Wang
+          - Renhai Chen
+          - Hua Xu
+          - Hongwei Sun
+        publication: arXiv preprint arXiv:2405.17755, May 2024.
+        links:
+          - label: arXiv
+            url: https://arxiv.org/abs/2405.17755
+
+  - year: 2023
+    papers:
+      - venue: TPDS
+        title: A Survey on Auto-Parallelism of Neural Networks Training
+        url: https://www.techrxiv.org/articles/preprint/A_Survey_on_Auto-Parallelism_of_Neural_Networks_Training/19522414
+        authors:
+          - Peng Liang
+          - Yu Tang
+          - Xiaoda Zhang
+          - Youhui Bai
+          - Teng Su
+          - Linbo Qiao
+          - Zhiquan Lai
+          - Dongsheng Li
+        publication: IEEE Transactions on Parallel and Distributed Systems, May 2023.
+        links:
+          - label: Paper
+            url: https://doi.org/10.1109/TPDS.2023.3262060
+
+      - venue: TPDS
+        title: A Generic, High-Performance, Compression-Aware Framework for Data Parallel DNN Training
+        corresponding: true
+        url: https://youhuibai.github.io/publications
+        authors:
+          - Hao Wu
+          - Shiyi Wang
+          - Youhui Bai
+          - Cheng Li
+          - Quan Zhou
+          - Jun Yi
+          - Feng Yan
+          - Ruichuan Chen
+          - Yinlong Xu
+        publication: IEEE Transactions on Parallel and Distributed Systems, April 2023.
+        links:
+          - label: Paper
+            url: https://youhuibai.github.io/publications
+
+      - venue: HPCA
+        title: "MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism"
+        url: https://hpca-conf.org/2023/
+        authors:
+          - Quan Zhou
+          - Haiquan Wang
+          - Xiaoyan Yu
+          - Cheng Li
+          - Youhui Bai
+          - Feng Yan
+          - Yinlong Xu
+        publication: IEEE International Symposium on High-Performance Computer Architecture, February 2023.
+        links:
+          - label: Venue
+            url: https://hpca-conf.org/2023/
+
+  - year: 2021
+    papers:
+      - venue: SOSP
+        title: Gradient Compression Supercharged High-Performance Data Parallel DNN Training
+        url: https://dl.acm.org/doi/10.1145/3477132.3483553
+        authors:
+          - Youhui Bai
+          - Cheng Li
+          - Quan Zhou
+          - Jun Yi
+          - Ping Gong
+          - Feng Yan
+          - Ruichuan Chen
+          - Yinlong Xu
+        publication: Proceedings of the ACM Symposium on Operating Systems Principles, October 2021.
+        links:
+          - label: Paper
+            url: https://dl.acm.org/doi/10.1145/3477132.3483553
+          - label: Code
+            url: https://gitlab.com/hipress
+
+      - venue: GNNSys
+        title: Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs
+        url: https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf
+        authors:
+          - Youhui Bai
+          - Cheng Li
+          - Zhiqi Lin
+          - Yufei Wu
+          - Youshan Miao
+          - Yunxin Liu
+          - Yinlong Xu
+        publication: GNNSys Workshop, April 2021.
+        links:
+          - label: PDF
+            url: https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf
+
+      - venue: TPDS
+        title: Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs
+        url: https://ieeexplore.ieee.org/document/9376972
+        authors:
+          - Youhui Bai
+          - Cheng Li
+          - Zhiqi Lin
+          - Yufei Wu
+          - Youshan Miao
+          - Yunxin Liu
+          - Yinlong Xu
+        publication: IEEE Transactions on Parallel and Distributed Systems, March 2021.
+        links:
+          - label: Paper
+            url: https://ieeexplore.ieee.org/document/9376972
+          - label: Code
+            url: https://gitlab.com/adsl_ustc/open_source_projects/pagraph/-/tree/master
+
+  - year: 2017
+    papers:
+      - venue: SOSP Poster
+        title: Fast Logging and Recovery Support for Transactional Databases
+        url: https://github.com/YouhuiBai/youhuibai.github.io/blob/home_page/publications/attaches/Poster-SOSP17.pdf
+        authors:
+          - Youhui Bai
+          - Cheng Li
+          - Yinlong Xu
+        publication: SOSP Poster, Shanghai, China, October 2017.
+        links:
+          - label: Poster
+            url: https://github.com/YouhuiBai/youhuibai.github.io/blob/home_page/publications/attaches/Poster-SOSP17.pdf
+
+      - venue: ICPP
+        title: "PDS: An I/O-efficient Scaling Scheme for Parity Declustered Data Layout"
+        url: https://ieeexplore.ieee.org/document/8025314
+        authors:
+          - Zhipeng Li
+          - Yinlong Xu
+          - Yongkun Li
+          - Chengjin Tian
+          - Youhui Bai
+        publication: International Conference on Parallel Processing, Bristol, UK, August 2017.
+        links:
+          - label: Paper
+            url: https://ieeexplore.ieee.org/document/8025314

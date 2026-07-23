@@ -1,1 +1,459 @@
-//customize your own CSS for page display
+// Publications
+.publications-page
+  .page-title
+    margin-bottom: 1rem
+
+.publications-content
+  .publication-note
+    margin: 0 0 1.8rem
+    color: #737a80
+    font-size: 1.3rem
+    font-style: italic
+    line-height: 1.4
+
+    strong
+      color: #454b50
+      font-weight: 600
+
+    a
+      color: #174f78
+      font-style: normal
+      font-weight: 600
+      text-decoration: none
+
+      &:hover
+        color: #a43b32
+        text-decoration: underline
+        text-underline-offset: 0.2rem
+
+  .corresponding-marker
+    margin-left: 0.1rem
+    color: #a43b32
+    font-size: 0.75em
+    font-style: normal
+    font-weight: 700
+    line-height: 0
+    vertical-align: super
+
+  .publication-year
+    margin-bottom: 3.6rem
+
+  .publication-year-title
+    margin: 0 0 0.6rem
+    padding-bottom: 0.7rem
+    border-bottom: 1px solid #d9dde1
+    color: #202428
+    font-size: 2.4rem
+    line-height: 1.2
+
+  .publication-list
+    margin: 0
+    padding: 0
+    list-style: none
+
+  .publication-item
+    display: grid
+    grid-template-columns: 8.4rem minmax(0, 1fr)
+    gap: 1.6rem
+    align-items: start
+    padding: 1.8rem 0
+    border-bottom: 1px solid #edf0f2
+
+    &:last-child
+      border-bottom: 0
+
+  .publication-labels
+    display: flex
+    width: 8.4rem
+    flex-direction: column
+    gap: 0.55rem
+
+  .publication-venue
+    box-sizing: border-box
+    width: 8.4rem
+    margin-top: 0.25rem
+    padding: 0.55rem 0.5rem
+    border-radius: 4px
+    background: #33434d
+    color: #fff
+    font-family: Arial, sans-serif
+    font-size: 1.15rem
+    font-weight: 700
+    line-height: 1.25
+    text-align: center
+    overflow-wrap: anywhere
+
+  .publication-award
+    box-sizing: border-box
+    width: 8.4rem
+    padding: 0.5rem 0.4rem
+    border: 1px solid #c58a18
+    border-radius: 4px
+    background: #fff7df
+    color: #7b4807
+    font-family: Arial, sans-serif
+    font-size: 1.05rem
+    font-weight: 700
+    line-height: 1.25
+    text-align: center
+
+  .publication-body
+    min-width: 0
+
+  .publication-title
+    margin: 0
+    font-size: 1.9rem
+    font-weight: 700
+    line-height: 1.35
+
+    a
+      color: #174f78
+      text-decoration: none
+
+      &:hover
+        color: #a43b32
+        text-decoration: underline
+        text-decoration-thickness: 1px
+        text-underline-offset: 0.2rem
+
+  .publication-authors
+    margin: 0.55rem 0 0
+    color: #454b50
+    font-size: 1.55rem
+    line-height: 1.45
+
+    strong
+      color: #202428
+      font-weight: 700
+
+  .publication-meta
+    margin: 0.35rem 0 0
+    color: #737a80
+    font-size: 1.45rem
+    font-style: italic
+    line-height: 1.4
+
+  .publication-links
+    display: flex
+    flex-wrap: wrap
+    gap: 0.55rem 1.2rem
+    margin-top: 0.65rem
+
+    a
+      color: #a43b32
+      font-family: Arial, sans-serif
+      font-size: 1.25rem
+      font-weight: 600
+      line-height: 1.4
+      text-decoration: none
+
+      &::before
+        content: '['
+
+      &::after
+        content: ']'
+
+      &:hover
+        color: #6e211b
+        text-decoration: underline
+
+@media (max-width: 34em)
+  .publications-content
+    .publication-year
+      margin-bottom: 2.8rem
+
+    .publication-item
+      grid-template-columns: 6.2rem minmax(0, 1fr)
+      gap: 1rem
+      padding: 1.5rem 0
+
+    .publication-venue
+      width: 6.2rem
+      padding: 0.5rem 0.35rem
+      font-size: 1.05rem
+
+    .publication-labels
+      width: 6.2rem
+
+    .publication-award
+      width: 6.2rem
+      padding: 0.45rem 0.25rem
+      font-size: 0.95rem
+
+    .publication-title
+      font-size: 1.7rem
+
+    .publication-authors
+      font-size: 1.4rem
+
+    .publication-meta
+      font-size: 1.35rem
+
+// Honors and academic services
+.honors-page
+  box-sizing: border-box
+  min-width: 0
+  max-width: 100%
+
+  .page-title
+    margin-bottom: 1rem
+
+.honors-content
+  box-sizing: border-box
+  width: 100%
+  min-width: 0
+  max-width: 100%
+
+  .honors-section
+    min-width: 0
+    max-width: 100%
+    margin-bottom: 4.2rem
+
+  .honors-section-title
+    margin: 0 0 1.2rem
+    padding-bottom: 0.8rem
+    border-bottom: 2px solid #33434d
+    color: #202428
+    font-size: 2.4rem
+    line-height: 1.25
+
+  .honors-awards-divider
+    margin-bottom: 1.2rem
+    border-top: 2px solid #33434d
+
+  .honors-year-group
+    display: grid
+    grid-template-columns: 8.4rem minmax(0, 1fr)
+    gap: 1.6rem
+    padding: 1.4rem 0
+    border-bottom: 1px solid #d9dde1
+
+    &:last-child
+      border-bottom: 0
+
+  .honors-year
+    margin: 0
+    color: #a43b32
+    font-family: Arial, sans-serif
+    font-size: 1.65rem
+    font-weight: 700
+    line-height: 1.4
+
+  .academic-service-group
+    padding: 1.4rem 0
+    border-bottom: 1px solid #d9dde1
+
+    &:last-child
+      border-bottom: 0
+
+  .academic-service-title
+    margin: 0 0 1.2rem
+    color: #a43b32
+    font-size: 1.7rem
+    font-weight: 700
+    line-height: 1.35
+
+  .honors-list
+    min-width: 0
+    margin: 0
+    padding: 0
+    list-style: none
+
+  .honors-item
+    position: relative
+    min-width: 0
+    padding: 0 0 1.3rem 1.5rem
+
+    &:last-child
+      padding-bottom: 0
+
+    &::before
+      position: absolute
+      top: 0.72rem
+      left: 0
+      width: 0.55rem
+      height: 0.55rem
+      border-radius: 50%
+      background: #33434d
+      content: ''
+
+  .honors-item-title
+    margin: 0
+    color: #202428
+    font-size: 1.7rem
+    font-weight: 700
+    line-height: 1.4
+    overflow-wrap: anywhere
+
+  .honors-item-meta
+    margin: 0.3rem 0 0
+    color: #60676d
+    font-size: 1.45rem
+    line-height: 1.45
+    overflow-wrap: anywhere
+
+  .honors-item-detail
+    &::before
+      content: ' · '
+
+@media (max-width: 34em)
+  .honors-content
+    .honors-section
+      margin-bottom: 3.2rem
+
+    .honors-year-group
+      grid-template-columns: minmax(0, 1fr)
+      gap: 0.55rem
+      padding: 1.2rem 0
+
+    .honors-year
+      font-size: 1.45rem
+
+    .academic-service-group
+      padding: 1.2rem 0
+
+    .academic-service-title
+      margin-bottom: 1rem
+      font-size: 1.55rem
+
+    .honors-item-title
+      font-size: 1.55rem
+
+    .honors-item-meta
+      font-size: 1.35rem
+
+// Home news
+.home-content
+  .about-content
+    h2
+      margin-top: 0
+
+  .home-news
+    margin-top: 3.8rem
+
+    > h2
+      margin: 0 0 1.2rem
+      padding-bottom: 0.8rem
+      border-bottom: 2px solid #33434d
+      color: #202428
+      font-size: 2.4rem
+      line-height: 1.25
+
+  .news-year-group
+    display: grid
+    grid-template-columns: 7rem minmax(0, 1fr)
+    gap: 1.6rem
+    padding: 1.4rem 0
+    border-bottom: 1px solid #d9dde1
+
+    &:last-child
+      border-bottom: 0
+
+  .news-year
+    margin: 0
+    color: #a43b32
+    font-family: Arial, sans-serif
+    font-size: 1.65rem
+    font-weight: 700
+    line-height: 1.4
+
+  .news-list
+    min-width: 0
+    margin: 0
+    padding: 0
+    list-style: none
+
+  .news-item
+    display: grid
+    grid-template-columns: 8rem 7.6rem minmax(0, 1fr)
+    gap: 1rem
+    align-items: start
+    min-width: 0
+    padding: 0 0 1.25rem
+
+    &:last-child
+      padding-bottom: 0
+
+  .news-date
+    color: #687078
+    font-family: Arial, sans-serif
+    font-size: 1.3rem
+    font-weight: 600
+    line-height: 1.5
+
+  .news-kind
+    box-sizing: border-box
+    width: 7.6rem
+    padding: 0.28rem 0.35rem
+    border: 1px solid #aab2b8
+    border-radius: 3px
+    color: #4f5960
+    font-family: Arial, sans-serif
+    font-size: 1rem
+    font-weight: 700
+    line-height: 1.25
+    text-align: center
+    text-transform: uppercase
+
+  .news-kind-best-paper
+    border-color: #c58a18
+    background: #fff7df
+    color: #7b4807
+
+  .news-kind-award
+    border-color: #c87a70
+    color: #8f332b
+
+  .news-kind-publication
+    border-color: #66869b
+    color: #174f78
+
+  .news-kind-career
+    border-color: #89939a
+    color: #4f5960
+
+  .news-text
+    min-width: 0
+    margin: 0
+    color: #343a3f
+    font-size: 1.5rem
+    line-height: 1.45
+    overflow-wrap: anywhere
+
+    a
+      color: #174f78
+      text-decoration: none
+
+      &:hover
+        color: #a43b32
+        text-decoration: underline
+        text-underline-offset: 0.2rem
+
+@media (max-width: 34em)
+  .home-content
+    .home-news
+      margin-top: 3rem
+
+    .news-year-group
+      grid-template-columns: minmax(0, 1fr)
+      gap: 0.7rem
+      padding: 1.2rem 0
+
+    .news-year
+      font-size: 1.45rem
+
+    .news-item
+      grid-template-columns: 7rem minmax(0, 1fr)
+      gap: 0.55rem 0.8rem
+      padding-bottom: 1.2rem
+
+    .news-date
+      font-size: 1.2rem
+
+    .news-kind
+      width: 7.6rem
+      font-size: 0.95rem
+
+    .news-text
+      grid-column: 1 / -1
+      font-size: 1.4rem

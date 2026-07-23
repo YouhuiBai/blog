@@ -2,6 +2,23 @@ extends includes/layout
 
 block content
     .page(itemscope itemtype='http://schema.org/CreativeWork')
-          each article in page.posts.data
-              if article.academia
-                  article!= article.content
+        each article in page.posts.data
+            if article.academia
+                article.home-content
+                    .about-content!= article.content
+                    if site.data.news && site.data.news.years
+                        section.home-news(aria-labelledby='home-news-title')
+                            h2#home-news-title News
+                            each group in site.data.news.years
+                                .news-year-group
+                                    h3.news-year= group.year
+                                    ul.news-list
+                                        each item in group.items
+                                            li.news-item
+                                                time.news-date= item.date
+                                                span.news-kind(class='news-kind-' + item.type)= item.label
+                                                p.news-text
+                                                    if item.url
+                                                        a(href=item.url target='_blank' rel='noopener')= item.text
+                                                    else
+                                                        = item.text

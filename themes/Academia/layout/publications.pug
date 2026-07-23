@@ -1,0 +1,41 @@
+extends includes/layout
+
+block content
+    .page.publications-page(itemscope itemtype='http://schema.org/CollectionPage')
+        h1.page-title= page.title
+        article.publications-content
+            p.publication-note
+                sup.corresponding-marker(aria-label='corresponding author') *
+                |  denotes 
+                strong corresponding author
+                | . · 
+                a(href='https://scholar.google.com/citations?user=2ITETScAAAAJ&hl=en' target='_blank' rel='noopener') Google Scholar
+            each group in site.data.publications.years
+                section.publication-year(aria-labelledby='publications-' + group.year)
+                    h2.publication-year-title(id='publications-' + group.year)= group.year
+                    ol.publication-list
+                        each paper in group.papers
+                            li.publication-item(itemscope itemtype='http://schema.org/ScholarlyArticle')
+                                .publication-labels
+                                    .publication-venue(title=paper.publication)= paper.venue
+                                    if paper.award
+                                        .publication-award= paper.award
+                                .publication-body
+                                    h3.publication-title(itemprop='name')
+                                        a(href=paper.url target='_blank' rel='noopener')= paper.title
+                                    p.publication-authors(itemprop='author')
+                                        each author, index in paper.authors
+                                            if index > 0
+                                                | , 
+                                            if author.indexOf(site.data.publications.author) === 0
+                                                strong
+                                                    = author
+                                                    if paper.corresponding
+                                                        sup.corresponding-marker(aria-label='corresponding author') *
+                                            else
+                                                = author
+                                    p.publication-meta= paper.publication
+                                    if paper.links && paper.links.length
+                                        nav.publication-links(aria-label='Resources for ' + paper.title)
+                                            each link in paper.links
+                                                a(href=link.url target='_blank' rel='noopener')= link.label

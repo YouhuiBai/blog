@@ -1,0 +1,136 @@
+years:
+  - year: "2026"
+    items:
+      - date: Jul 14
+        type: best-paper
+        label: Best Paper
+        text: Teaching the Old Dog New Tricks received the OSDI 2026 Best Paper Award.
+        url: https://www.usenix.org/conference/osdi26/presentation/chen-luofan
+      - date: Jul 01
+        type: publication
+        label: Publication
+        text: Accelerating Long-Tail Generation in Synchronous RLHF Training was accepted by ICPP 2026.
+        url: https://arxiv.org/abs/2605.23945
+      - date: Jun 23
+        type: publication
+        label: Publication
+        text: CentroidKV was published in TMLR 2026.
+        url: https://openreview.net/forum?id=T3EeupQhGj
+      - date: May 30
+        type: publication
+        label: Publication
+        text: AdaCluster was accepted by CVPR 2026.
+        url: https://openaccess.thecvf.com/content/CVPR2026/html/Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper.html
+      - date: May 08
+        type: publication
+        label: Publication
+        text: nScaler-M was published in IEEE TPDS 2026.
+        url: https://doi.org/10.1109/TPDS.2026.3691363
+      - date: Mar 14
+        type: publication
+        label: Publication
+        text: SMIDT was published at AAAI 2026.
+        url: https://ojs.aaai.org/index.php/AAAI/article/view/39403
+
+
+  - year: "2025"
+    items:
+      - date: Jun 18
+        type: career
+        label: Career
+        text: Joined the School of Computer Science and Technology at USTC.
+        url: https://cs.ustc.edu.cn/
+      - date: May 16
+        type: publication
+        label: Publication
+        text: HATA was accepted by ACL 2025 Findings.
+        url: https://arxiv.org/abs/2506.02572
+      - date: Apr 20
+        type: award
+        label: Award
+        text: Received the Spark Award, First Prize.
+      - date: Mar 15
+        type: award
+        label: Award
+        text: Received the Flash Storage SPDT President Award - United We Stand Award.
+      - date: Jan 05
+        type: award
+        label: Award
+        text: Received the Grand Prize of the Dayu Water Control Key Project.
+
+  - year: "2024"
+    items:
+      - date: Dec 10
+        type: publication
+        label: Publication
+        text: BigMac was accepted by AAAI 2025.
+        url: https://aaai.org/conference/aaai/aaai-25/main-technical-track/
+      - date: Jul 22
+        type: award
+        label: Award
+        text: Received the Spark Award for LLM Inference, Issue 77.
+      - date: Jul 07
+        type: award
+        label: Award
+        text: Received the Innovation Pioneer Award, First Prize.
+      - date: Jun 17
+        type: award
+        label: Award
+        text: HiPress received the WAIC Youth Outstanding Paper Award.
+        url: http://m.waicyop.cn/
+
+
+  - year: "2023"
+    items:
+      - date: Dec 27
+        type: award
+        label: Award
+        text: Received the Team Gold Medal Award.
+      - date: Jul 07
+        type: award
+        label: Award
+        text: Received the Innovation Pioneer Award, First Prize.
+      - date: May 30
+        type: publication
+        label: Publication
+        text: A Survey on Auto-Parallelism of Neural Networks Training was published in IEEE TPDS.
+        url: https://ieeexplore.ieee.org/document/10163912
+      - date: Apr 03
+        type: publication
+        label: Publication
+        text: The HiPress extension was published in IEEE TPDS.
+        url: https://ieeexplore.ieee.org/document/10098952
+
+  - year: "2022"
+    items:
+      - date: Oct 18
+        type: publication
+        label: Publication
+        text: MPress was accepted by HPCA 2023.
+        url: https://hpca-conf.org/2023/main-program/
+      - date: Sep 24
+        type: award
+        label: Award
+        text: Received the ACM SIGCSE China Outstanding Doctoral Dissertation Award.
+
+  - year: "2021"
+    items:
+      - date: Oct 26
+        type: publication
+        label: Publication
+        text: HiPress appeared at SOSP 2021.
+        url: https://sosp2021.mpi-sws.org/program.html
+      - date: Jul 25
+        type: career
+        label: Career
+        text: Joined Huawei in Hangzhou, China.
+      - date: Jun 26
+        type: career
+        label: Career
+        text: Received my PhD degree from USTC.
+        url: http://adsl.ustc.edu.cn/
+      - date: Mar 12
+        type: publication
+        label: Publication
+        text: PaGraph was published in IEEE TPDS.
+        url: https://ieeexplore.ieee.org/document/9376972

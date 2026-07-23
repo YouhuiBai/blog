@@ -1,0 +1,33 @@
+extends includes/layout
+
+block content
+    .page.honors-page(itemscope itemtype='http://schema.org/CollectionPage')
+        h1.page-title= page.title
+        article.honors-content
+            section.honors-section(aria-label='Honors and Awards')
+                .honors-awards-divider(aria-hidden='true')
+                each group in site.data.honors.awards
+                    .honors-year-group
+                        h3.honors-year= group.year
+                        ul.honors-list
+                            each item in group.items
+                                li.honors-item
+                                    p.honors-item-title= item.title
+                                    p.honors-item-meta
+                                        span= item.organization
+                                        if item.detail
+                                            span.honors-item-detail= item.detail
+
+            section.honors-section(aria-labelledby='academic-services')
+                h2.honors-section-title#academic-services Academic Services
+                each group in site.data.honors.services
+                    .academic-service-group
+                        h3.academic-service-title= group.category
+                        ul.honors-list
+                            each item in group.items
+                                li.honors-item
+                                    p.honors-item-title= item.role
+                                    p.honors-item-meta
+                                        span= item.venue
+                                        if item.detail
+                                            span.honors-item-detail= item.detail

@@ -1,0 +1,94 @@
+awards:
+  - year: "2025"
+    items:
+      - title: Spark Award, First Prize
+        organization: Huawei
+      - title: 闪存存储 SPDT 总裁奖—众志成城奖
+        organization: Huawei
+      - title: 大禹治水攻关项目特等奖
+        organization: Huawei
+
+  - year: "2024"
+    items:
+      - title: World Artificial Intelligence Conference Youth Outstanding Paper Award
+        organization: WAIC
+      - title: "Spark Award, Issue 77: LLM Inference"
+        organization: Huawei
+      - title: Innovation Pioneer Award, First Prize
+        organization: Huawei 2012 Laboratories
+
+  - year: "2023"
+    items:
+      - title: Innovation and Technological Breakthrough Award
+        organization: Huawei 2012 Laboratories
+      - title: Team Gold Medal Award
+        organization: Huawei 2012 Laboratories
+      - title: Timely Incentive Award, Computing R&D Management Department
+        organization: Huawei Computing Product Line
+      - title: Innovation Pioneer Award, First Prize
+        organization: Huawei 2012 Laboratories
+
+  - year: "2022"
+    items:
+      - title: Outstanding Doctoral Dissertation Award
+        organization: ACM SIGCSE China
+      - title: President's Commendation Order
+        organization: Huawei
+
+  - year: "2021"
+    items:
+      - title: Outstanding Graduate of Anhui Province
+        organization: University of Science and Technology of China
+
+  - year: "2017"
+    items:
+      - title: USTC Global Digital Scholarship
+        organization: University of Science and Technology of China
+      - title: First Prize, Postgraduate Academic Scholarship
+        organization: University of Science and Technology of China
+
+  - year: "2013-2016"
+    items:
+      - title: National Encouragement Scholarship
+        organization: University of Science and Technology of China
+        detail: 2013-2016
+      - title: Silver Award, Outstanding Student Scholarship
+        organization: University of Science and Technology of China
+        detail: "2014"
+      - title: Bronze Award, Outstanding Student Scholarship
+        organization: University of Science and Technology of China
+        detail: 2013, 2015, and 2016
+
+services:
+  - category: Editorial Service
+    items:
+      - role: Young Editorial Board Member
+        venue: Journal of Chinese Computer Systems (小型微型计算机系统)
+        detail: Since March 2026
+
+  - category: Program Committees and Conference Reviewing
+    items:
+      - role: Program Committee Member
+        venue: International Workshop on Big Memory (BigMem 2026)
+        detail: Co-located with SOSP 2026, September 2026
+      - role: Program Committee Member
+        venue: ChinaSys 2026 Spring
+        detail: Spring 2026
+      - role: Conference Reviewer
+        venue: Annual Meeting of the Association for Computational Linguistics (ACL 2026, CCF A)
+        detail: Reviewed three submissions, May 2026
+
+  - category: Professional Society Service
+    items:
+      - role: Executive Committee Member
+        venue: CCF Technical Committee on Distributed Computing and Systems
+        detail: Since July 2025
+
+  - category: Journal Reviewing
+    items:
+      - role: Journal Reviewer
+        venue: IEEE Transactions on Mobile Computing (TMC, CCF A)
+      - role: Journal Reviewer
+        venue: Frontiers of Computer Science (FCS, CCF B)
+      - role: Journal Reviewer
+        venue: CCF Transactions on High Performance Computing (THPC, CCF C)
