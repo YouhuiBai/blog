@@ -1,4 +1,10 @@
 awards:
+  - year: "2026"
+    items:
+      - title: Outstanding Instructor Award
+        organization: 2026 National College Student Computer System Capability Competition
+        detail: "Compiler System Design - Compiler System Challenge, national finals; advised team KernelAgent (First Prize)."
+
   - year: "2025"
     items:
       - title: Spark Award, First Prize

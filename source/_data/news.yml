@@ -1,6 +1,15 @@
 years:
   - year: "2026"
     items:
+      - date: Sep 18
+        type: funding
+        label: Funding
+        text: Congratulations to my undergraduate student Haoyue Tan, co-advised with Prof. Cheng Li, on receiving funding from the NSFC's 2026 Basic Research Program for Young Students! Haoyue is one of five recipients from USTC's School of the Gifted Young, following multiple rounds of selection.
+        url: https://mp.weixin.qq.com/s/u8dSJKlUQgaoT_OuBRyxBA
+      - date: Aug 21
+        type: award
+        label: Award
+        text: Team KernelAgent, which I advised, won First Prize in the national finals of the 2026 National College Student Computer System Capability Competition (Compiler System Design - Compiler System Challenge). I received the Outstanding Instructor Award.
       - date: Jul 14
         type: best-paper
         label: Best Paper
