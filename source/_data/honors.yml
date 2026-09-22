@@ -1,6 +1,9 @@
 awards:
   - year: "2026"
     items:
+      - title: Rising Star Award
+        organization: ACM ChinaSys
+        detail: One of three recipients in 2026
       - title: Outstanding Instructor Award
         organization: 2026 National College Student Computer System Capability Competition
         detail: "Compiler System Design - Compiler System Challenge, national finals; advised team KernelAgent (First Prize)."

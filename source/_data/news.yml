@@ -1,6 +1,11 @@
 years:
   - year: "2026"
     items:
+      - date: Sep 22
+        type: award
+        label: Award
+        text: Honored to be selected as one of three recipients of the 2026 ACM ChinaSys Rising Star Award.
+        url: https://mp.weixin.qq.com/s/H3BJ8bzUFMS_zFJQEYF8xw
       - date: Sep 18
         type: funding
         label: Funding
