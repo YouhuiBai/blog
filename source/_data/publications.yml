@@ -3,6 +3,47 @@ author: Youhui Bai
 years:
   - year: 2026
     papers:
+      - venue: ATC
+        title: "ATP: Workload-Adaptive Scheduling for Goodput-Optimized Tensor-Parallel LLM Serving with PD Disaggregation"
+        corresponding: true
+        url: https://sigops.org/s/conferences/atc/2026/schedule.html
+        authors:
+          - Yinhe Chen
+          - Dongqi Tian
+          - Youhui Bai
+          - Chaoyi Ruan
+          - Jiaan Zhu
+          - Long Zhao
+          - Qinghe Wang
+          - Cheng Li
+        publication: ACM SIGOPS Annual Technical Conference (ATC '26), November 2026.
+        links:
+          - label: Paper
+            url: https://sigops.org/s/conferences/atc/2026/schedule.html
+
+      - venue: ATC
+        title: "DittoCache: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding"
+        corresponding: true
+        url: https://sigops.org/s/conferences/atc/2026/schedule.html
+        authors:
+          - Jia He
+          - Youhui Bai
+          - Jiawei Yi
+          - Ping Gong
+          - Zewen Jin
+          - Shannon Wang
+          - Jiaqi Ruan
+          - Jiaan Zhu
+          - Pengcheng Wang
+          - Haibo Wang
+          - Weiguang Wang
+          - Xia Zhu
+          - Cheng Li
+        publication: ACM SIGOPS Annual Technical Conference (ATC '26), November 2026.
+        links:
+          - label: Paper
+            url: https://sigops.org/s/conferences/atc/2026/schedule.html
+
       - venue: OSDI
         award: Best Paper
         title: "Teaching the Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-Training (Operational Systems)"
