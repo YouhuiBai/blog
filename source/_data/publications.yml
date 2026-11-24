@@ -1,12 +1,33 @@
 author: Youhui Bai
 
 years:
+  - year: 2027
+    papers:
+      - venue: HPCA
+        title: "WaveAlign: Cache-Aware Query-Row Scheduling for Sparse Attention in Long-Video Generation"
+        corresponding: true
+        url: https://arxiv.org/pdf/2609.34814
+        authors:
+          - Zijian Dai
+          - Sen Han
+          - Youhui Bai
+          - Shannon Wang
+          - Kan Wu
+          - Jingkai Huang
+          - Yuhang Wang
+          - Jing Li
+          - Cheng Li
+        publication: IEEE International Symposium on High-Performance Computer Architecture (HPCA), March 20-24, 2027. Accepted.
+        links:
+          - label: Paper
+            url: https://arxiv.org/pdf/2609.34814
+
   - year: 2026
     papers:
       - venue: ATC
         title: "ATP: Workload-Adaptive Scheduling for Goodput-Optimized Tensor-Parallel LLM Serving with PD Disaggregation"
         corresponding: true
-        url: https://sigops.org/s/conferences/atc/2026/schedule.html
+        url: https://dl.acm.org/doi/abs/10.1145/3828523.3857038
         authors:
           - Yinhe Chen
           - Dongqi Tian
@@ -19,12 +40,12 @@ years:
         publication: ACM SIGOPS Annual Technical Conference (ATC '26), November 2026.
         links:
           - label: Paper
-            url: https://sigops.org/s/conferences/atc/2026/schedule.html
+            url: https://dl.acm.org/doi/abs/10.1145/3828523.3857038
 
       - venue: ATC
         title: "DittoCache: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding"
         corresponding: true
-        url: https://sigops.org/s/conferences/atc/2026/schedule.html
+        url: https://dl.acm.org/doi/full/10.1145/3828523.3857042
         authors:
           - Jia He
           - Youhui Bai
@@ -42,7 +63,7 @@ years:
         publication: ACM SIGOPS Annual Technical Conference (ATC '26), November 2026.
         links:
           - label: Paper
-            url: https://sigops.org/s/conferences/atc/2026/schedule.html
+            url: https://dl.acm.org/doi/full/10.1145/3828523.3857042
 
       - venue: OSDI
         award: Best Paper
